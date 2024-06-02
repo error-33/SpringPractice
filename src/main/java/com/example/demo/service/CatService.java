@@ -12,4 +12,6 @@ public interface CatService {
     public void delete(Integer id);
 
     public List<Cat> read();
+
+    public void test();
 }
